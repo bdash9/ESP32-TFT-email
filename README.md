@@ -7,3 +7,7 @@ Once expanded download the .ino file located here called DEMO-ESP32-smtp-send.in
 Check out the video on my youtube channel for more info:
 
 https://www.youtube.com/@dash9computing
+
+
+And Paul Santos (origional author of code):
+https://randomnerdtutorials.com/esp32-send-email-smtp-server-arduino-ide/
